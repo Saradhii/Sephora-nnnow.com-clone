@@ -73,7 +73,7 @@ Sephora is a French multinational retailer of personal care and beauty products.
 - Paras Jain
 - Keshav
 ## IMP Link's
-
+- [Click here](https://github.com/Saradhii/Sephora-nnnow.com-clone.git) Github repository.
 - [Click here](https://medium.com/@kksv1997/masai-collaborative-project-sephorannnow-website-clone-11e2f97da1a7) to see our blogs.
 - [Click here](https://fascinating-lily-608479.netlify.app/) Netlify Link.
 - [Click here](https://drive.google.com/file/d/16k-8MvgpEJIjxFu1zIl2DqCgOn7SftRY/view?usp=sharing) Demo video of the project.
