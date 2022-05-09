@@ -1,70 +1,79 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Clone of sephora.nnnow.com
 
-## Available Scripts
+This was our project for Unit-4 Construct week at Masai Shcool. Our target was to complete all main functionality of e-commerce website have, such as sing up to till to the byuing of a product. We have completed this project in 5 days.
 
-In the project directory, you can run:
+- [Click here](https://sephora.nnnow.com/) to see the main(Original) website.
+- [Click here](https://fascinating-lily-608479.netlify.app/) to see preview of our project deployment link.
 
-### `npm start`
+Sephora is a French multinational retailer of personal care and beauty products.Along with its own private label, Sephora Collection, Sephora offers beauty products including cosmetics, skincare, body, fragrance, nail color, beauty tools, body lotions and haircare.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Credits
+- Images: [sephora.nnnow.com](https://sephora.nnnow.com/)
+- Content:[sephora.nnnow.com](https://sephora.nnnow.com/)
+- Icons: [Font Awesome](https://fontawesome.com/)
+- References: [MDN Docs](https://developer.mozilla.org/en-US/) | [W3schools](https://www.w3schools.com/)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech Stack
+- HTML 5
+- CSS 3
+- Local Storage
+- Javascript
+- React
 
-### `npm run build`
+## Features
+- Login and SignUp page
+- Carouse for product pictures
+- Detailed product preview page
+- Filters for coustom price.
+- Sort functions for Higher to Lower price,Lower to Higher price.
+- Add to cart opt for buying products.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Dependencies/Library's used
+- npm i react-slideshow-image
+- npm install react-slick --save
+- npm install slick-carousel
+- npm install react-icons --save
+- npm install @mui/material @emotion/react @emotion/styled
+- npm install @mui/material @mui/styled-engine-sc styled-components
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Project Presentation (DEMO) 
+- [Click here](https://drive.google.com/file/d/16k-8MvgpEJIjxFu1zIl2DqCgOn7SftRY/view?usp=sharing) to watch our project preview in a video format.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+##  Deployment/Netlify
+- [Click here](https://fascinating-lily-608479.netlify.app/) to see our project deployment link.
+## Screeshots
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Home page](https://www.linkpicture.com/q/WhatsApp-Image-2022-05-07-at-8.05.47-PM.jpeg)
+![product page](https://www.linkpicture.com/q/WhatsApp-Image-2022-05-07-at-8.06.30-PM.jpeg)
+![Product detail page](https://www.linkpicture.com/q/WhatsApp-Image-2022-05-07-at-8.07.56-PM.jpeg)
+![Cart page](https://www.linkpicture.com/q/WhatsApp-Image-2022-05-07-at-8.08.33-PM.jpeg)
+![Payment page](https://www.linkpicture.com/q/WhatsApp-Image-2022-05-07-at-8.09.28-PM.jpeg)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Challenges
+1. As every journey has some challenges and so was ours. In our team, all we the members were just familiar with each other so it was easy for all of us to communicate and collaborate.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. This Unit-4 is all about on React js. So there were some moments where members were not able to get idea, facing some issues,had a conflict and it was hard for everyone to handle these conflicts.
 
-## Learn More
+3. As the Navbar and Footer parts were common for all the pages so we copied both of them in a single folder and imported them in every code, this was a kind of new method for us and we struggled while doing this step.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4. We faced challenges with CSS tags and class also, because when we merged CSS files for any page in which 2-3 members have worked, sometimes tags were colliding because of the same names of tags and classes.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+5. Another problem was to merge all of the files in a proper sequence which was again a difficult task for us because while merging and connecting all the pages some of the pages had the same name, and while running the site it was redirecting to some other pages so it was difficult to find the location.
 
-### Code Splitting
+## Team
+- Saradhi Mopada
+- Arpit Chaudhary
+- Rohit Mahajan
+- Sunil Sahu
+- Paras Jain
+- Keshav
+## IMP Link's
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Click here](https://medium.com/@kksv1997/masai-collaborative-project-sephorannnow-website-clone-11e2f97da1a7) to see our blogs.
+- [Click here](https://fascinating-lily-608479.netlify.app/) Netlify Link.
+- [Click here](https://drive.google.com/file/d/16k-8MvgpEJIjxFu1zIl2DqCgOn7SftRY/view?usp=sharing) Demo video of the project.
