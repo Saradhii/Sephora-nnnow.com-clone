@@ -1,0 +1,60 @@
+.links {
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+  }
+  .links a {
+    text-decoration: none;
+    color: black;
+    letter-spacing: 2px;
+  }
+  .links a:hover {
+    color: #ec008c;
+  }
+  .social {
+    margin: auto;
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+  }
+  .social i {
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  .social i:hover {
+    font-size: 25px;
+    color: #ec008c;
+    cursor: pointer;
+  }
+
+  .copy{
+     text-align: center;
+     margin-top: 30px;
+  }
+
+.copy>span:hover{
+  color: #ec008c;
+}
+
+  .footer-brand{
+      margin-top: 30px;
+      margin-bottom: 20px;
+text-align: center;
+  }
+
+  .fa-brands:hover{
+    color: #ec008c;
+  }
+
+  .footer-brand>p{
+      font-weight: lighter;
+      margin: auto;
+      color: black;
+     
+  }
+
+  .footer-brand>p:hover{
+      color: #ec008c;
+  }
