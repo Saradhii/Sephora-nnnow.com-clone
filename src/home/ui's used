@@ -1,0 +1,7 @@
+//UI NPM LIBS USED
+
+
+npm i react-slideshow-image
+npm install react-slick --save
+npm install slick-carousel
+npm install react-icons --save

@@ -1,0 +1,58 @@
+{
+  "click": [
+    {
+      "Qty": 1,
+      "id": "300",
+      "path": "SEPHORA / BURBERRY / Women / Beauty / ",
+      "cur": "Perfume",
+      "image1": "https://cdn09.nnnow.com/web-images/large/styles/6GRBMYYWJ83/1604582394834/1.jpg",
+      "image2": "https://cdn00.nnnow.com/web-images/large/styles/6GRBMYYWJ83/1618843515743/50.jpg",
+      "image3": "https://cdn00.nnnow.com/web-images/large/styles/6GRBMYYWJ83/1618843515743/50.jpg",
+      "brand": "BURBERRY",
+      "title": "Burberry Body Tender Eau De Toilette",
+      "price": 4150,
+      "color": [
+        "rgb(244,244,244)"
+      ],
+      "size": [
+        "60 ML"
+      ]
+    },
+    {
+      "Qty": 1,
+      "id": "211",
+      "path": "SEPHORA / FOREST ESSENTIALS / Home / Skincare / ",
+      "cur": "Moisturizer",
+      "image1": "https://cdn16.nnnow.com/web-images/large/styles/YXY8PHL6GLX/1487240531815/1.jpg",
+      "image2": "Not Available",
+      "image3": "Not Available",
+      "brand": "FOREST ESSENTIALS",
+      "title": "Light Day Lotion With Lavender And Neroli - Normal Towards Oily Skin",
+      "price": 2025,
+      "color": [
+        "rgb(244,244,244)"
+      ],
+      "size": [
+        "40 ML"
+      ]
+    },
+    {
+      "Qty": "2",
+      "id": "302",
+      "path": "SEPHORA / HUGO BOSS / Women / Beauty / ",
+      "cur": "Perfume",
+      "image1": "https://cdn01.nnnow.com/web-images/large/styles/APO1MI8SE9T/1604487730463/1.jpg",
+      "image2": "https://cdn06.nnnow.com/web-images/large/styles/APO1MI8SE9T/1604487730460/3.jpg",
+      "image3": "https://cdn06.nnnow.com/web-images/large/styles/APO1MI8SE9T/1604487730460/3.jpg",
+      "brand": "HUGO BOSS",
+      "title": "Boss The Scent Private Accord For Her Eau De Parfum",
+      "price": 5400,
+      "color": [
+        "rgb(244,244,244)"
+      ],
+      "size": [
+        "50 ML"
+      ]
+    }
+  ]
+}

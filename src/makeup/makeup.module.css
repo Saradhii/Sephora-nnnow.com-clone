@@ -1,0 +1,112 @@
+body{
+    font-family: 'Avenir', Helvetica, sans-serif;
+}
+.main1{
+    width:80%;
+    height:4000px;
+    /* border:2px solid black; */
+    margin:auto;
+    padding:5px;
+    display:flex;
+    gap:10px;
+}
+.side1{
+    width:20%;
+    height:4000px;
+    /* border:2px solid black; */
+}
+h5{
+    padding-left: 15px;
+}
+.side2{
+    width:78%;
+    height:4000px;
+    /* border:2px solid black; */
+    padding:5px;
+}
+.sorting{
+    width:98%;
+    height:40px;
+    /* border:2px solid black; */
+    padding-top: 20px;
+    text-align: right;
+}
+.makeup1{
+    width:96%;
+    height:4000px;
+    /* border:2px solid black; */
+    margin-top: 5px;
+}
+input[type=radio] {
+    border: 1px solid #fff;
+    width:15px;
+    height:15px;
+    -webkit-appearance: none;
+    background-color:#d4d4d4;
+  }
+  
+  input[type=radio]:checked {
+    background-color: pink;
+    background-size: 9px 9px;
+  }
+  
+  input[type=radio]:focus {
+    outline-color: transparent;
+  }
+
+  lable{
+    font-family: 'Avenir', Helvetica, sans-serif;
+    font-weight: 100;
+  }
+.filterby{
+    height:400px;
+    /* border:2px solid black; */
+    margin:auto;
+    padding:2px;
+}
+.filterby>div{
+height:40px;
+width:94%;
+border:2px solid black;
+display:flex;
+justify-content: space-around;
+}
+select{
+width : 200px;
+height: 30px;
+font-family: 'Avenir', Helvetica, sans-serif;
+font-size: 15px;
+border:2px solid black;
+color:black;
+}
+.makeup1{
+    display:grid;
+    grid-template-columns: repeat(3,32%);
+    grid-template-rows: repeat(30,400px);
+    gap:10px;
+    padding:10px;
+}
+.makeup1>div{
+    /* border:2px solid black; */
+    padding:10px;
+    text-align: center;
+    font-family: 'Avenir', Helvetica, sans-serif;
+}
+.makeup1>img{
+    width:100%;
+}
+span{
+    color:red;
+    font-size: 15px;
+}
+.products{
+    /* border:2px solid red; */
+    padding:10px;
+    text-align: center;
+    font-family: 'Avenir', Helvetica, sans-serif;
+    color:black;
+}
+.products:hover{
+    border: 1px solid black;
+    border-radius: 5px;
+}

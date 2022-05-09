@@ -1,0 +1,18 @@
+.main{
+    /* border: 2px solid black; */
+    width:350px;
+    height:500px;
+}
+.top{
+    /* border: 2px solid black; */
+    justify-content: space-around;
+    text-align: center;
+    color:#000000;
+}
+h4{
+    cursor: pointer;
+}
+.span211{
+    color:#ff3399;
+    font-size: 14px;
+  }

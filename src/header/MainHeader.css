@@ -1,0 +1,70 @@
+  .vl {
+    border-left: 2.3px solid #d6d6d6;
+    height: 20.7px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+.icon{
+    color:#ec008c
+}
+  .containerFoot2 {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .form button {
+    background-color: white;
+    color: #ec008c;
+    font-size: 17px;
+    border: 0px;
+    border-left: none;
+    cursor: pointer;
+  }
+  .form input[type="text"] {
+    font-size: 17px;
+    border: 0px;
+    width: 80%;
+    background: white;
+  }
+  .containerFoot2 > div:first-child {
+    border-bottom: 1px solid black;
+    width: max-content;
+  }
+  input:focus {
+    outline: none;
+  }
+  .containerFoot2 h1 {
+    letter-spacing: 5px;
+    font-family: "Montserrat", sans-serif;
+    font-family: "Open Sans", sans-serif;
+    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 50px;
+  }
+  .containerFoot2 > div:last-child {
+    display: flex;
+  }
+
+  .light {
+    font-weight: lighter;
+    font-size: 18px;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  
+  .login {
+    text-decoration: none;
+    color: #000;
+  }
+  .lastbar{
+    border-bottom: 1px solid lightgray;
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }

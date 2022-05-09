@@ -1,0 +1,45 @@
+.myform{
+  text-align: center;
+  width:350px;
+  /* border:2px solid black; */
+  margin: auto;
+  margin-top: 10px;
+}
+.lable{
+  font-size: 12px;
+  text-align: left;
+  margin-left: 18px;
+}
+input{
+  border:2px solid black;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+input:hover{
+  border:2px solid red;
+}
+
+.button{
+  background-color: #ff3399;
+  border:none;
+  width:90%;
+}
+.button1{
+  background-color: #4285f4;
+  border:none;
+  width:90%;
+  justify-content: center;
+}
+.button2{
+  background-color: #3b5998;
+  border:none;
+  width:90%;
+}
+p{
+  font-size: 12px;
+}
+.span21{
+  text-decoration: underline;
+  color:#ff3399;
+  font-size: 12px;
+}
