@@ -22,7 +22,7 @@ const Skincare = () => {
     const [data, setData] = useState([]);
     useEffect(() => {
       const getData = async () => {
-        let res = await fetch(`http://localhost:8080/Moisturizer`, {
+        let res = await fetch(`https://saphora-nnow.herokuapp.com/Moisturizer`, {
           method: "GET",
           headers: {
             "contnet-type": "application/json",

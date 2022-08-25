@@ -54,7 +54,7 @@ const handleClose = () => {
   var arr=[];
 useEffect(() => {
    const getSingleData = async()=>{
-      let res = await fetch(`http://localhost:8080/Perfume/${id}`,{
+      let res = await fetch(`https://saphora-nnow.herokuapp.com/Perfume/${id}`,{
           method:"GET",
           headers: {
               "contnet-type": "application/json",
@@ -104,7 +104,7 @@ useEffect(() => {
     //     url: 'http://localhost:3001/click' 
     //   });
 
-   let response2 = await fetch("http://localhost:8090/click", {
+   let response2 = await fetch("https://saphora-nnow.herokuapp.com/click", {
     method: "POST",
    headers: { "content-type": "application/json" },
   body: JSON.stringify({

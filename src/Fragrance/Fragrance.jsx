@@ -22,7 +22,7 @@ const Fragrance = () => {
     const [data, setData] = useState([]);
     useEffect(() => {
       const getData = async () => {
-        let res = await fetch(`http://localhost:8080/Perfume`, {
+        let res = await fetch(`https://saphora-nnow.herokuapp.com/Perfume`, {
           method: "GET",
           headers: {
             "contnet-type": "application/json",

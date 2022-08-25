@@ -21,7 +21,7 @@ function Cart(props) {
 
     useEffect(() => {
       const getData = async () => {
-        let res = await fetch(`http://localhost:8090/click`, {
+        let res = await fetch(`https://saphora-nnow.herokuapp.com/click`, {
           method: "GET",
           headers: {
             "contnet-type": "application/json",
@@ -55,7 +55,7 @@ var total = data.reduce((acc, el) => {
 // }
 const setQtyF = async (e,id) => {
         
-     let res = await fetch(`http://localhost:8090/click/${id}`, {
+     let res = await fetch(`https://saphora-nnow.herokuapp.com/click/${id}`, {
         method: "PATCH",
        headers: { "content-type": "application/json" },
       body: JSON.stringify({
@@ -68,7 +68,7 @@ const setQtyF = async (e,id) => {
   };
 
     const deleteItem = async (id) => {
-      let res = await fetch(`http://localhost:8090/click/${id}`, {
+      let res = await fetch(`https://saphora-nnow.herokuapp.com/click/${id}`, {
         method: "DELETE",
       });
       let Newdata = await res.json();

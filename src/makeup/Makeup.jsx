@@ -21,7 +21,7 @@ const Makeup = () => {
     const [data, setData] = useState([]);
     useEffect(() => {
       const getData = async () => {
-        let res = await fetch(`http://localhost:8080/Face_Foundation_Cream`, {
+        let res = await fetch(`https://saphora-nnow.herokuapp.com/Face_Foundation_Cream`, {
           method: "GET",
           headers: {
             "contnet-type": "application/json",
