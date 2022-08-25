@@ -8,6 +8,9 @@ This was our project for Unit-4 Construct week at Masai Shcool. Our target was t
 
 Sephora is a French multinational retailer of personal care and beauty products.Along with its own private label, Sephora Collection, Sephora offers beauty products including cosmetics, skincare, body, fragrance, nail color, beauty tools, body lotions and haircare.
 
+Json-repo: https://github.com/Saradhii/Saphora-nnow.com-json <br>
+Json-url: https://saphora-nnow.herokuapp.com/ <br>
+
 
 ## Credits
 - Images: [sephora.nnnow.com](https://sephora.nnnow.com/)
